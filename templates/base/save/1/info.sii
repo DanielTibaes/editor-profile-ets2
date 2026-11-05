@@ -1,0 +1,18 @@
+SiiNunit
+{
+save_container : _nameless.288.12af.e5b8 {
+ name: "Jogo Base"
+ time: 696
+ file_time: 1793684327
+ version: 102
+ info_version: 1
+ dependencies: 0
+ info_players_experience: 122
+ info_unlocked_recruitments: 0
+ info_unlocked_dealers: 0
+ info_visited_cities: 1
+ info_money_account: 2679
+ info_explored_ratio: &3b8290ad
+}
+
+}
